@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# CLion Junk
+.idea/
+
+# CMake Output Directory
+cmake-build-debug/
